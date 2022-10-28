@@ -41,4 +41,4 @@ def compile_samples(n, d, amts):
 	plt.close()
 
 # compile_samples(500, 6, (100,)*50)
-compile_samples(500, 6, (0,)*170 + (100,)*30)
+# compile_samples(500, 6, (0,)*170 + (100,)*30)
